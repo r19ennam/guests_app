@@ -12,4 +12,4 @@ steps:
     acrName: 'r19ennamrepo'
     containerAppName: 'web-app'
     resourceGroup: 'r19ennam'
-
+    imageToDeploy: 'r19ennamrepo.azurecr.io/ado-task/container-app:30.20230925.2'
