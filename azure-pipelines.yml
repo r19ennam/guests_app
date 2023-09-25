@@ -9,7 +9,7 @@ steps:
   inputs:
     appSourcePath: './'
     azureSubscription: '733ed6f9-010f-4d62-8993-d622330af8cb'
-    acrName: 'r19ennamrepo'
+    acrName: 'r19ennamrepo/'
     containerAppName: 'web-app'
     resourceGroup: 'r19ennam'
 
